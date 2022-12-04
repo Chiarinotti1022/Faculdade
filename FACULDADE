@@ -1,0 +1,7 @@
+variavel = int(input("Digite um número qualquer:"))
+if variavel %2 == 0 :
+  variaveldois = int(variavel+5)
+  print("Seu resultado é:", variaveldois)
+else :
+  variaveltres = int(variavel+8)
+  print("Seu resultado é:", variaveltres)
